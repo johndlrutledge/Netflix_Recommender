@@ -1,4 +1,4 @@
-# UNT_Deep_Learning_Final_Project_Team_7
+# Netflix_Recommender
 
 Options to get started:
 1) Download the Netflix prize top dataset and run the preprocessing file included (which took us several hours on a subset of the data)
